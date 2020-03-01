@@ -1,0 +1,9 @@
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.deps.json
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.dll
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.csprojAssemblyReference.cache
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.AssemblyInfoInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.AssemblyInfo.cs
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.dll
+C:\Users\slingom\source\repos\InMemCacheTest\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.pdb

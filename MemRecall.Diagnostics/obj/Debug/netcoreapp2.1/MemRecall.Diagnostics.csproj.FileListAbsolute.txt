@@ -1,0 +1,8 @@
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.deps.json
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.csproj.CoreCompileInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.AssemblyInfoInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.AssemblyInfo.cs
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.pdb

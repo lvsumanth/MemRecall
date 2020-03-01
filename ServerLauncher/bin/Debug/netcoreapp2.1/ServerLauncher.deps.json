@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ServerLauncher/1.0.0": {
+        "dependencies": {
+          "MemRecall.Core": "1.0.0",
+          "MemRecall.Server": "1.0.0"
+        },
+        "runtime": {
+          "ServerLauncher.dll": {}
+        }
+      },
+      "MemRecall.Core/1.0.0": {
+        "runtime": {
+          "MemRecall.Core.dll": {}
+        }
+      },
+      "MemRecall.Diagnostics/1.0.0": {
+        "runtime": {
+          "MemRecall.Diagnostics.dll": {}
+        }
+      },
+      "MemRecall.Server/1.0.0": {
+        "dependencies": {
+          "MemRecall.Core": "1.0.0",
+          "MemRecall.Diagnostics": "1.0.0"
+        },
+        "runtime": {
+          "MemRecall.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerLauncher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MemRecall.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MemRecall.Diagnostics/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MemRecall.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

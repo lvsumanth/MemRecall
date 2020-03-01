@@ -1,0 +1,17 @@
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\bin\Debug\netcoreapp2.1\MemRecall.deps.json
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\bin\Debug\netcoreapp2.1\MemRecall.dll
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\bin\Debug\netcoreapp2.1\MemRecall.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\obj\Debug\netcoreapp2.1\MemRecall.csproj.CoreCompileInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\obj\Debug\netcoreapp2.1\MemRecall.AssemblyInfoInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\obj\Debug\netcoreapp2.1\MemRecall.AssemblyInfo.cs
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\obj\Debug\netcoreapp2.1\MemRecall.dll
+C:\Users\slingom\source\repos\InMemCacheTest\ClassLibrary1\obj\Debug\netcoreapp2.1\MemRecall.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\bin\Debug\netcoreapp2.1\MemRecall.deps.json
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\bin\Debug\netcoreapp2.1\MemRecall.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\bin\Debug\netcoreapp2.1\MemRecall.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\obj\Debug\netcoreapp2.1\MemRecall.csproj.CoreCompileInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\obj\Debug\netcoreapp2.1\MemRecall.AssemblyInfoInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\obj\Debug\netcoreapp2.1\MemRecall.AssemblyInfo.cs
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\obj\Debug\netcoreapp2.1\MemRecall.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\obj\Debug\netcoreapp2.1\MemRecall.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall\obj\Debug\netcoreapp2.1\MemRecall.csprojAssemblyReference.cache

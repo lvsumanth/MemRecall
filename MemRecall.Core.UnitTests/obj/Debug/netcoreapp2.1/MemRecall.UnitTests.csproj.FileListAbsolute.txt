@@ -1,0 +1,17 @@
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\MemRecall.UnitTests.deps.json
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\MemRecall.UnitTests.runtimeconfig.json
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\MemRecall.UnitTests.runtimeconfig.dev.json
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\MemRecall.UnitTests.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\MemRecall.UnitTests.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\obj\Debug\netcoreapp2.1\MemRecall.UnitTests.csprojAssemblyReference.cache
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\obj\Debug\netcoreapp2.1\MemRecall.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\obj\Debug\netcoreapp2.1\MemRecall.UnitTests.AssemblyInfoInputs.cache
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\obj\Debug\netcoreapp2.1\MemRecall.UnitTests.AssemblyInfo.cs
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\obj\Debug\netcoreapp2.1\MemRecall.UnitTests.csproj.CopyComplete
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\obj\Debug\netcoreapp2.1\MemRecall.UnitTests.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\obj\Debug\netcoreapp2.1\MemRecall.UnitTests.pdb
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\MemRecall.Core.dll
+C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.UnitTests\bin\Debug\netcoreapp2.1\MemRecall.Core.pdb
