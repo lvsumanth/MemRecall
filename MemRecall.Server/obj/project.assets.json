@@ -726,11 +726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Server\\MemRecall.Server.csproj",
+      "projectUniqueName": "C:\\src\\private\\MemRecall\\MemRecall.Server\\MemRecall.Server.csproj",
       "projectName": "MemRecall.Server",
-      "projectPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Server\\MemRecall.Server.csproj",
+      "projectPath": "C:\\src\\private\\MemRecall\\MemRecall.Server\\MemRecall.Server.csproj",
       "packagesPath": "C:\\Users\\slingom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Server\\obj\\",
+      "outputPath": "C:\\src\\private\\MemRecall\\MemRecall.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -749,11 +749,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Core\\MemRecall.Core.csproj": {
-              "projectPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Core\\MemRecall.Core.csproj"
+            "C:\\src\\private\\MemRecall\\MemRecall.Core\\MemRecall.Core.csproj": {
+              "projectPath": "C:\\src\\private\\MemRecall\\MemRecall.Core\\MemRecall.Core.csproj"
             },
-            "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj": {
-              "projectPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj"
+            "C:\\src\\private\\MemRecall\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj": {
+              "projectPath": "C:\\src\\private\\MemRecall\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj"
             }
           }
         }

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj",
+      "projectUniqueName": "C:\\src\\private\\MemRecall\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj",
       "projectName": "MemRecall.Diagnostics",
-      "projectPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj",
+      "projectPath": "C:\\src\\private\\MemRecall\\MemRecall.Diagnostics\\MemRecall.Diagnostics.csproj",
       "packagesPath": "C:\\Users\\slingom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\MemRecall.Diagnostics\\obj\\",
+      "outputPath": "C:\\src\\private\\MemRecall\\MemRecall.Diagnostics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

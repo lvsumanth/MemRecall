@@ -14,3 +14,12 @@ C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Core\obj\Debug\netcoreapp
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.AssemblyInfo.cs
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.dll
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.pdb
+C:\src\private\MemRecall\MemRecall.Core\bin\Debug\netcoreapp2.1\MemRecall.Core.deps.json
+C:\src\private\MemRecall\MemRecall.Core\bin\Debug\netcoreapp2.1\MemRecall.Core.dll
+C:\src\private\MemRecall\MemRecall.Core\bin\Debug\netcoreapp2.1\MemRecall.Core.pdb
+C:\src\private\MemRecall\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.csprojAssemblyReference.cache
+C:\src\private\MemRecall\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.csproj.CoreCompileInputs.cache
+C:\src\private\MemRecall\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.AssemblyInfoInputs.cache
+C:\src\private\MemRecall\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.AssemblyInfo.cs
+C:\src\private\MemRecall\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.dll
+C:\src\private\MemRecall\MemRecall.Core\obj\Debug\netcoreapp2.1\MemRecall.Core.pdb

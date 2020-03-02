@@ -6,3 +6,12 @@ C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\net
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.AssemblyInfo.cs
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.dll
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.pdb
+C:\src\private\MemRecall\MemRecall.Diagnostics\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.deps.json
+C:\src\private\MemRecall\MemRecall.Diagnostics\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.dll
+C:\src\private\MemRecall\MemRecall.Diagnostics\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.pdb
+C:\src\private\MemRecall\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.csprojAssemblyReference.cache
+C:\src\private\MemRecall\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.csproj.CoreCompileInputs.cache
+C:\src\private\MemRecall\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.AssemblyInfoInputs.cache
+C:\src\private\MemRecall\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.AssemblyInfo.cs
+C:\src\private\MemRecall\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.dll
+C:\src\private\MemRecall\MemRecall.Diagnostics\obj\Debug\netcoreapp2.1\MemRecall.Diagnostics.pdb

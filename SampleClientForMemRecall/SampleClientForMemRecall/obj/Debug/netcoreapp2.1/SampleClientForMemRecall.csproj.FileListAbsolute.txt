@@ -7,3 +7,12 @@ C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\SampleClie
 C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.dll
 C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.pdb
 C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.csprojAssemblyReference.cache
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\bin\Debug\netcoreapp2.1\SampleClientForMemRecall.deps.json
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\bin\Debug\netcoreapp2.1\SampleClientForMemRecall.dll
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\bin\Debug\netcoreapp2.1\SampleClientForMemRecall.pdb
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.csprojAssemblyReference.cache
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.csproj.CoreCompileInputs.cache
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.AssemblyInfoInputs.cache
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.AssemblyInfo.cs
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.dll
+C:\src\private\MemRecall\SampleClientForMemRecall\SampleClientForMemRecall\obj\Debug\netcoreapp2.1\SampleClientForMemRecall.pdb

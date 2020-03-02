@@ -12,3 +12,17 @@ C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\ClientLaun
 C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.csproj.CopyComplete
 C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.dll
 C:\Users\slingom\source\repos\InMemCacheTest\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.pdb
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\bin\Debug\netcoreapp2.1\ClientLauncher.deps.json
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\bin\Debug\netcoreapp2.1\ClientLauncher.runtimeconfig.json
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\bin\Debug\netcoreapp2.1\ClientLauncher.runtimeconfig.dev.json
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\bin\Debug\netcoreapp2.1\ClientLauncher.dll
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\bin\Debug\netcoreapp2.1\ClientLauncher.pdb
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\bin\Debug\netcoreapp2.1\SampleClientForMemRecall.dll
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\bin\Debug\netcoreapp2.1\SampleClientForMemRecall.pdb
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.csprojAssemblyReference.cache
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.csproj.CoreCompileInputs.cache
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.AssemblyInfoInputs.cache
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.AssemblyInfo.cs
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.csproj.CopyComplete
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.dll
+C:\src\private\MemRecall\SampleClientForMemRecall\ClientLauncher\obj\Debug\netcoreapp2.1\ClientLauncher.pdb

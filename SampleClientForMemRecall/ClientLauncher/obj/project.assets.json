@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\ClientLauncher\\ClientLauncher.csproj",
+      "projectUniqueName": "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\ClientLauncher\\ClientLauncher.csproj",
       "projectName": "ClientLauncher",
-      "projectPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\ClientLauncher\\ClientLauncher.csproj",
+      "projectPath": "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\ClientLauncher\\ClientLauncher.csproj",
       "packagesPath": "C:\\Users\\slingom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\ClientLauncher\\obj\\",
+      "outputPath": "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\ClientLauncher\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj": {
-              "projectPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj"
+            "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj": {
+              "projectPath": "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj"
             }
           }
         }

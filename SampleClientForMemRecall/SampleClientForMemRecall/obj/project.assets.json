@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj",
+      "projectUniqueName": "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj",
       "projectName": "SampleClientForMemRecall",
-      "projectPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj",
+      "projectPath": "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall.csproj",
       "packagesPath": "C:\\Users\\slingom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slingom\\source\\repos\\InMemCacheTest\\SampleClientForMemRecall\\SampleClientForMemRecall\\obj\\",
+      "outputPath": "C:\\src\\private\\MemRecall\\SampleClientForMemRecall\\SampleClientForMemRecall\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

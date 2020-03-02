@@ -26,3 +26,17 @@ C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Server\obj\Debug\netcorea
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.csproj.CopyComplete
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.dll
 C:\Users\slingom\source\repos\InMemCacheTest\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.pdb
+C:\src\private\MemRecall\MemRecall.Server\bin\Debug\netcoreapp2.1\MemRecall.Server.deps.json
+C:\src\private\MemRecall\MemRecall.Server\bin\Debug\netcoreapp2.1\MemRecall.Server.dll
+C:\src\private\MemRecall\MemRecall.Server\bin\Debug\netcoreapp2.1\MemRecall.Server.pdb
+C:\src\private\MemRecall\MemRecall.Server\bin\Debug\netcoreapp2.1\MemRecall.Core.dll
+C:\src\private\MemRecall\MemRecall.Server\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.dll
+C:\src\private\MemRecall\MemRecall.Server\bin\Debug\netcoreapp2.1\MemRecall.Core.pdb
+C:\src\private\MemRecall\MemRecall.Server\bin\Debug\netcoreapp2.1\MemRecall.Diagnostics.pdb
+C:\src\private\MemRecall\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.csprojAssemblyReference.cache
+C:\src\private\MemRecall\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.csproj.CoreCompileInputs.cache
+C:\src\private\MemRecall\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.AssemblyInfoInputs.cache
+C:\src\private\MemRecall\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.AssemblyInfo.cs
+C:\src\private\MemRecall\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.csproj.CopyComplete
+C:\src\private\MemRecall\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.dll
+C:\src\private\MemRecall\MemRecall.Server\obj\Debug\netcoreapp2.1\MemRecall.Server.pdb
